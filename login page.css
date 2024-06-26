@@ -1,0 +1,52 @@
+.login{
+    border: 3px solid black;
+    width: 400px;
+    height: 500px;
+    color: black;
+    background-image: url(wp4390828.webp);
+    border-radius: 20px;
+    background-size: cover;
+    background-position: center;
+}
+form{
+    display: block;
+    box-sizing: border-box;
+    padding: 40px;
+    width: 50px;
+    height: 50px;
+
+}
+h1{
+    font-size: 30px;
+    font-style: italic;
+    font-weight: normal;
+    margin-bottom: 30px;
+}
+label{
+    color: rgba(red, green, blue, alpha);
+    text-transform: uppercase;
+    font-size: 15px;
+}
+input{
+    background: rgba(red, green, blue, alpha);
+    height: 40px;
+    line-height: 40px;
+}
+input:hover{
+ background-color: aquamarine;
+}
+button{
+    background: rgb(45, 126, blue);
+    margin: 50px;
+    border-radius: 40px;
+    line-height: 40px;
+}
+ a{
+    text-decoration: none;
+    color: red;
+    border: 2px solid yellow;
+   float: left;
+}
+a:hover{
+    background-color: burlywood;
+}
